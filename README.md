@@ -1,5 +1,5 @@
 # Toy Semaphore
-A simple discrete logic toy semaphore (without microcontroller)
+A simple discrete logic toy traffic lights controller (without microcontroller)
 
 ## Files
 - simulation.v, semi-structural simulation in Verilog
