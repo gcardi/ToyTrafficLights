@@ -8,4 +8,4 @@ A simple discrete logic toy semaphore (without microcontroller)
 
 <img src="docs/assets/images/Thumb.png" alt="Schematics thumbnail, see SemLayout.pdf" border="0"></a>
 
-<video src="docs/assets/videos/TrafficLights.webm" autoplay loop muted playsinline width="600"></video>
+[TrafficLights](https://github.com/gcardi/ToyTrafficLights/docs/assets/videos/TrafficLights.mp4)
