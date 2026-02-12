@@ -10,6 +10,8 @@ A simple discrete logic toy traffic lights controller (without microcontroller)
 
 <img src="docs/assets/images/TrafficLights.gif" alt="Working demo" border="0"></a>
 
+<img src="docs/assets/images/BatteryIncluded.jpg" alt="With 9V battery" border="0"></a>
+
 <img src="docs/assets/images/CircuitTop.jpg" alt="Top layout" border="0"></a>
 
 <img src="docs/assets/images/CircuitBottom.jpg" alt="Bottom layout" border="0"></a>
