@@ -10,11 +10,11 @@ A simple discrete logic toy semaphore (without microcontroller)
 
 <img src="docs/assets/images/TrafficLights.gif" alt="Working demo" border="0"></a>
 
-<img src="docs/assets/images/CircuitTop.gif" alt="Top layout" border="0"></a>
+<img src="docs/assets/images/CircuitTop.jpg" alt="Top layout" border="0"></a>
 
-<img src="docs/assets/images/CircuitBottom.gif" alt="Bottom layout" border="0"></a>
+<img src="docs/assets/images/CircuitBottom.jpg" alt="Bottom layout" border="0"></a>
 
-<img src="docs/assets/images/CircuitBottomDetails.gif" alt="Bottom layout (detailed view)" border="0"></a>
+<img src="docs/assets/images/CircuitBottomDetails.jpg" alt="Bottom layout (detailed view)" border="0"></a>
 
 
 
